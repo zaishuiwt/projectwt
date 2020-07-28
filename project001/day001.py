@@ -3,4 +3,3 @@
 # 载水制作的脚本
 
 print("hello,world")
-print("hello,world2")
